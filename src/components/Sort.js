@@ -32,7 +32,7 @@ const Sort = () => {
       <p>{products.length} products found</p>
       <hr />
       <form>
-        <label htmlFor="sort">sort by</label>
+        <label htmlFor="sort">sort by </label>
         <select
           name="sort"
           id="sort"
